@@ -12,7 +12,7 @@ Repo en el que se almacenarán las diferentes herramientas las cuales pueden ser
 
 [Flujos de trabajo git](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
-[Github Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pd)
+[Github Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
 
 
