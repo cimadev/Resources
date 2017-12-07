@@ -2,9 +2,9 @@
 Repo en el que se almacenarán las diferentes herramientas las cuales pueden sernos de utilidad!
 
 ## Hola VirtuaFest Durango!
-[instalar git](git-scm.com)
+[Instalar git](git-scm.com)
 
-[markdown live preview](markdownlivepreview.com)
+[Markdown live preview](markdownlivepreview.com)
 
 [Comandos Vi](https://www.computerhope.com/unix/uvi.htm)
 
